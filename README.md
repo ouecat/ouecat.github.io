@@ -1,3 +1,3 @@
 # ouecat.github.io
 
-> Pages
+> Web Pages
